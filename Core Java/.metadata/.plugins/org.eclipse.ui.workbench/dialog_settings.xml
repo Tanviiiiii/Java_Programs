@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.FileSystem"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID" value="false"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="E:\java\corejava12-3\socket-programming"/>
+			<item value="E:\eclipse software\eclipse\core java\Package"/>
+			<item value="E:\eclipse software\eclipse\core java\pattern &amp; series"/>
+			<item value="E:\eclipse software\eclipse\core java\Multithreading"/>
+			<item value="E:\eclipse software\eclipse\core java\oops"/>
+			<item value="E:\eclipse software\eclipse\java files\Access modifier"/>
+			<item value="C:\Users\PARTEEK\OneDrive\Desktop\JApps Project\JApps"/>
+		</list>
+	</section>
+</section>

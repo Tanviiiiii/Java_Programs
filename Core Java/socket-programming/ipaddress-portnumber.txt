@@ -1,0 +1,10 @@
+IP address and port number of the server
+
+Every device on network is uniquely idenfied by a number.That number is called ip addess of the device.It is combination of four numbers.
+
+172.45.44.133
+168.144.1.98
+
+Port number:It is used to identify application(client/server) communicating over netwrok.
+
+ 

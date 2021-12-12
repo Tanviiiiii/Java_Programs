@@ -1,0 +1,44 @@
+Socket programming
+------------------
+By using socket two application/program can communicate with each other.
+In java programming every socket is represented in the form of object.
+This object should be created from the class java.net.Socket
+
+Client program will create this object first
+
+Socket soc=new Socket("ip addres of the server",port_number_of_server);
+
+Socket soc=new Socket("172.45.44.133",2009);
+
+This code will send a request to the server
+Server will accept this request and will create a scoket for the client at server side
+By using these two sockets both client and server program will communicate with each other
+
+Communication
+-------------
+
+1:Client program will write data into socket.This data will be sent to the server side socket
+2:Server program will read data from the socket
+3:Server program will generate response
+4)Server program will write response into the socket.This response will be sent to the client side socket
+5)Client program will read resposne from the socket
+6)Client program will display the response
+
+Note:As we know read and write operation is performed using stream.Every socket has both input stream(read) and output stream(write)  
+
+
+ServerSocket class:Server program must create an object of this class on execution.
+Following method of this class will be executed to accept client request
+
+public Socket accept():On execution this will perform following tasks
+
+1)It will accept client request
+2)It will create and return object of Socket class.
+
+Note:This method will be called when client program will create a socket(Object of socket class) 
+
+
+
+
+
+

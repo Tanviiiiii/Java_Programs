@@ -1,0 +1,6 @@
+package cetpa.cetpa;
+
+iise Cetpa folder ke ander Cetpa folder banegi aur us Cetpa folder ke ander hamari class file hogi (CC.class)
+
+aur Yeah Cetpa folder, phir uske ander Cepa folder automatically create honge. Jab ham apney source program ko compile krwayenge :
+              javac -d . CC.java  
